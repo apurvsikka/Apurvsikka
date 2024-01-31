@@ -3,5 +3,4 @@ Hi there 👋 I am Apurv , A hobby developer from India. I am familiar with lang
 
 currently working on Sairyou-anime(NodeJs)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Apurvsikka&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Apurvsikka&theme=whatsapp-dark2&hide_border=true&border_radius=15)](https://git.io/streak-stats)
