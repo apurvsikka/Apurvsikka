@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurvsikka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvsikka&label=Profile%20views&color=0e75b6&style=flat" alt="apurvsikka" /> </p>
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
 [![trophy](https://github-profile-trophy.vercel.app/?username=apurvsikka&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [anispace](https://github.com/Anispace/anispace)
