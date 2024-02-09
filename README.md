@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [anispace](https://github.com/Anispace/anispace)
 
-- 🌱 I’m currently learning **Nodejs,React,Sass,Reactnative**
+- 🌱 I’m currently learning **Nodejs,React,Sass,React native,Docker**
 
 - 📫 How to reach me **apurvsikka@proton.me**
 
