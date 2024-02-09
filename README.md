@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=apurvsikka&color=lightgrey)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=apurvsikka&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [anispace](https://github.com/Anispace/anispace)
