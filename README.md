@@ -9,10 +9,10 @@
 
 - 🌱 I’m currently learning **Nodejs,React,Sass,React native,Docker**
 
-- 📫 How to reach me **apurvsikka@proton.me**
+- 📫 email **apurvsikka@proton.me**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvsikka&show_icons=true)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
