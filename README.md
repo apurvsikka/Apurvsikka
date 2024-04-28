@@ -5,7 +5,8 @@
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=apurvsikka&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [anispace](https://github.com/Anispace/anispace)
+<!-- 🔭 I’m currently working on [anispace](https://github.com/Anispace/anispace)-->
+- 🔭 Last completed project [anispace](https://github.com/Anispace/anispace-v1)
 
 - 🌱 I’m currently learning **Nodejs,React,Sass,React native,Docker**
 
